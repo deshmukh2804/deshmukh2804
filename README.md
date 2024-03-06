@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deshmukh2804
-- 👀 I’m interested in Devlopment
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning b.tech AIML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
